@@ -1,0 +1,23 @@
+.heading{
+    width:70%;
+    background-color: rgb(255, 255, 255);
+    font-size: 50;
+}
+body{
+    background-color: blue;
+    color: pink;
+    font-family: 'Island Moments', cursive;
+    
+}
+.objects{
+color: rgb(255, 255, 255);
+
+
+width: 350px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+    
+}
